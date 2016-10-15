@@ -1,6 +1,6 @@
 header {
-  height: 100vh;
-  background-image: url(https://unsplash.imgix.net/photo-1414490929659-9a12b7e31907);
+  height: 60vh;
+  background-image: url("http://cdn.rosannadavisonnutrition.com/wp-content/uploads/2015/12/apples.jpeg");
   background-size: cover;
   background-position: center;
   margin-bottom: 50px;
@@ -25,6 +25,6 @@ header {
 }
 
 p {
-  width: 600px;
+  width: 800px;
   margin: 0 auto 20px;
 }
