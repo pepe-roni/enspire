@@ -1,7 +1,12 @@
 header {
-  height: 100vh;
-  background-image: url(http://i.imgur.com/9VOR4km.jpg);
+  margin:-10px;
+  color: teal;
+  font-size:250%;
+  font-family: "headFont";
+  height: 85vh;
+  background-image: url("img/apples.jpeg");
   background-size: cover;
+  background-blend-mode: color-dodge;
   background-position: center;
   margin-bottom: 50px;
   display: -webkit-box;
@@ -25,6 +30,18 @@ header {
 }
 
 p {
-  width: 600px;
+  font-family: "bodyFont";
+  width: 800px;
   margin: 0 auto 20px;
+}
+
+@font-face{
+  font-family: "bodyFont";
+  src: url("fonts/Rounded_Elegance.ttf")
+}
+
+@font-face{
+  font-family: "headFont";
+  font-weight: bold;
+  src: url("fonts/VAL.otf");
 }
