@@ -1,1 +1,1 @@
-# enspire
+# Lowell Physics Club Landing Page
