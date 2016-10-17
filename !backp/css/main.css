@@ -1,6 +1,6 @@
 header {
   margin:-10px;
-  color: teal;
+  color: gold;
   font-size:250%;
   font-family: "headFont";
   height: 85vh;
@@ -30,6 +30,7 @@ header {
 }
 
 nav {
+  font-family: "bodyFont";
   padding: 50px;
   text-align: center;
 }
