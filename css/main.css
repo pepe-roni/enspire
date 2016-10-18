@@ -2,8 +2,12 @@ header {
   margin:-10px;
   color: gold;
   font-size:250%;
-  font-family: "headFont";
+  font-family: "bodyFont";
   height: 85vh;
+  /*
+  -webkit-filter: blur(5px);
+  filter: blur(1px);
+  */
   background-image: url("img/apples.jpeg");
   background-size: cover;
   background-blend-mode: color-dodge;
@@ -87,7 +91,7 @@ li:hover > ul.drop-menu li {
 
 p {
   font-family: "bodyFont";
-  width: 800px;
+  width: 600px;
   margin: 0 auto 20px;
 }
 
