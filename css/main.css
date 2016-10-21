@@ -1,9 +1,9 @@
 header {
   margin:-115px;
   color:white ;
-  font-size: 200%;
+  font-size: 5vh;
   font-family: "bodyFont";
-  height: 85vh;
+  height: 102vh;
   /*
   -webkit-filter: blur(5px);
   filter: blur(1px);
@@ -68,11 +68,11 @@ nav > ul {
 nav > ul > li {
   float: left;
   width: 15vh;
-  height: 5vh;
-  line-height: 45px;
+  height: 7vh;
+  line-height: 7vh;
   position: relative;
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 2vh;
   color: rgba(0, 0, 0, 0.7);
   cursor: pointer;
 }
@@ -128,6 +128,7 @@ p {
           align-items: center;
   text-align: center;
   font-family: "bodyFont";
+  font-size: 2.5vh;
   width: 600px;
   margin: 0 auto 20px;
 }
