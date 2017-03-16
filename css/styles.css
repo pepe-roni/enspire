@@ -307,7 +307,7 @@ body {
 */
     a {
       font-weight: 900;
-  color: rgb(255, 191, 191);
+  color: rgba(11, 236, 228, 0.88);
   -webkit-transition: color 0.7s ease;
   -moz-transition: color 0.7s ease;
   transition: color 0.7s ease; }
@@ -327,7 +327,7 @@ html {
   font-size: 100%;
   width: 100%;
   -webkit-text-size-adjust: 100%;
-  background-color: #7690a4;
+  background-color: #056f68;
 }
 
 body {
@@ -352,7 +352,7 @@ body {
   left: 0;
   height: 100%;
   width: 100%;
-  background: rgba(118, 144, 164, 0.6);
+  background: rgba(26, 132, 132, 0.6);
   z-index: 0; }
 .sect-banner .v-center {
   position: relative;
